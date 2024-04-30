@@ -14,13 +14,15 @@ Ce mod transforme l'univers de GTA Vice City en une expérience roumaine authent
 - Mod open source pour permettre la personnalisation et l'exploration
 
 ## 🌟 Comment Utiliser
-
-1. Cloner ce dépôt : `git clone https://github.com/tonnomutilisateur/vice-city-mod-roumanie`
-2. Suivre les instructions spécifiques au mod pour l'intégrer à GTA Vice City
+1. Installe le .zip
+2. Ouvrir le fichier principal (il y en a 2, les deux marche)
+3. Lors de l'ouverture, plusieurs messages d'erreur vont s'afficher, si vous voulez jouer sans rien installer d'autres, alors faites "Ok" sur la première fenêtre, "Annuler" sur la deuxième fenêtre et "Annuler" sur la troisième fenêtre.
+4. Après avoir fait ça, rien ne vas s'afficher, aucune inquiétude, il suffit juste de faire clic gauche.
+5. Bonne partie :D
 
 ## 📜 Licence
 
-Ce projet est sous licence [MIT](LICENSE), ce qui signifie que tu peux l'utiliser, le modifier et le distribuer librement !
+Ce projet est sous licence [Apache License 2.0](LICENSE), ce qui signifie que tu peux l'utiliser, le modifier et le distribuer librement !
 
 ## 🤝 Contributions
 
